@@ -25,7 +25,7 @@ SECRET_KEY = '@(*u@+_s&2t-#gmt)wu+o%ush8j)_(kg650u@vacj!08#p0q-c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['atomicc.pythonanywhere.com']
 
 
 # Application definition
